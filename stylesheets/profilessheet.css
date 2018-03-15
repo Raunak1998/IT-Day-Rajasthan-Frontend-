@@ -1,0 +1,114 @@
+body{
+	background-color: #FFFFC2;
+}
+
+#h {
+  text-align: center;
+}
+
+#emit
+{
+  font-size:5em;
+  font-weight:50;
+  font-family:Georgia;
+  opacity:0.60;
+  margin:5px;
+  text-align: center;
+}
+#subheading
+{
+  font-weight:50;
+  font-size:2em;
+  font-family:Georgia;
+}
+h2{
+	margin-top: 100px;
+	font-size: 35px;
+}
+
+table {
+	margin-top: -60px;
+}
+
+#tablehead {
+	background-color: #CCFFFF;
+}
+
+#tablehead td {
+	padding: 10px 20px;
+	font-size: 18px;
+	font-family: 'Raleway';
+	margin: 30px;
+}
+
+#tablehead td:hover {
+	background-color: #3B9C9C;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+#active {
+	background-color: #3B9C9C;
+}
+#image
+{
+	width: 270px;
+	margin-left: 200px;
+	border: 2px solid black;
+}
+#details{
+	font-size: 20px;
+	font-weight: bold;
+
+}
+#details li{
+	margin-top: 20px;
+}
+
+#links{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#links li{
+	margin-top: 20px;
+}
+#links li a {
+	color: blue;
+}
+
+
+#form {
+	margin-left: 250px;
+	margin-top: 150px;
+	font-size: 30px;
+}
+
+#logout
+{
+	float: right;
+	margin-top: -110px;
+	margin-right: 20px;
+	color: blue;
+	border: 1px solid blue;
+	padding: 6px;
+	font-size: 17px;
+}
+#logout:hover {
+	background-color: blue;
+	color: white;
+}
+
+#disc {
+	font-size: 17px;
+	margin-top: -90px;
+}
+#form2 {
+	float: left;
+	margin-left: 550px;
+	margin-top: -75px;
+	font-size: 30px;
+}
