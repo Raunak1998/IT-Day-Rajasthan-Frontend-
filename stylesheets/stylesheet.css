@@ -1,10 +1,6 @@
 body {
-    height: 100%;
-    /* The image used */
-    background-image: url("../images/wall3.jpeg"); 
-
-    /* Center and scale the image nicely */
-    /*background-position: center;*/
+    height: 30%;
+    background-image: url("../images/wall10.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     padding: 3em;
@@ -19,20 +15,21 @@ body {
 {
   font-size:5em;
   font-weight:50;
-  font-family:Georgia;
-  opacity:0.60;
+  font-family:Monserrat,sans-serif;
+  opacity:0.70;
   margin:5px;
   text-align: center;
 }
 #subheading
 {
+  opacity: 0.70;
   font-weight:50;
   font-size:2em;
-  font-family:Georgia;
+  font-family:Monserrat,sans-serif;
 }
 
 #login {
-  background-color: rgba(255,255,255,0.3);
+  background-color: rgba(255,255,255,0.2);
   border: 2px solid black;
   margin-top: 90px;
   width: 35%;
@@ -47,13 +44,14 @@ body {
 #info {
   /*background-color: rgba(255,255,255,0.3);
   border: 2px solid black;*/ 
+  opacity: 0.75;
   float: right;
   width: 55%;
   padding: 20px;
   font-size: 23px;
   font-weight: bold;
   margin-top: 50px;
-  font-family: 'Kurale';
+  font-family:Lato,sans-serif;
 }
 .input{
   font-size:20px;
