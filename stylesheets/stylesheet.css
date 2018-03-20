@@ -12,20 +12,19 @@ body {
 }
 
 #heading
-{
+{ 
   font-size:5em;
   font-weight:50;
-  font-family:Monserrat,sans-serif;
+  font-family:Montserrat,sans-serif;
   opacity:0.70;
   margin:5px;
   text-align: center;
 }
 #subheading
 {
-  opacity: 0.70;
   font-weight:50;
   font-size:2em;
-  font-family:Monserrat,sans-serif;
+  opacity: 0.7;
 }
 
 #login {

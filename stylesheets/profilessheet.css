@@ -35,7 +35,7 @@ table {
 }
 
 #tablehead {
-	background-color: white;
+	background-color: #fad390;
 	color: rgba(47, 54, 64,1.0);
 	border-radius: 2px;
 }
@@ -63,6 +63,7 @@ a {
 #image
 {
 	width: 270px;
+	height: 300px;
 	margin-left: 200px;
 	border: 2px solid black;
 }
@@ -79,13 +80,13 @@ a {
 #links{
 	font-size: 20px;
 	font-weight: bold;
+	background-color: #ffc048;
 }
 
 #links li{
 	margin-top: 20px;
 }
-#links li a {
-	color: #dfe6e9;
+#links li a {;
 }
 
 
@@ -113,6 +114,7 @@ a {
 #disc {
 	font-size: 17px;
 	margin-top: -90px;
+	font-weight: 20px;
 }
 #form2 {
 	float: left;
