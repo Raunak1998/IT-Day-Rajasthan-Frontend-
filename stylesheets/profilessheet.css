@@ -113,8 +113,10 @@ a {
 
 #disc {
 	font-size: 17px;
-	margin-top: -90px;
+	margin-top: -70px;
 	font-weight: 20px;
+	background-color: #ffc048;
+	width: 400px;
 }
 #form2 {
 	float: left;
